@@ -1,0 +1,8 @@
+Forest
+Waterfall,Giant Boulder,Cliff,Ever-Burn Tree
+City
+Skyscraper,Deadly Downtown,Pernicious Park,Foggy Fountain
+Desert
+Quicksand,Cactus Patch,Poisoned Oasis,Ancient Ruins
+Island
+Whirlpool,Sand Dunes,Dry Beach,Abandoned Cabin

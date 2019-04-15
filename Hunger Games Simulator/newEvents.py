@@ -1,0 +1,23 @@
+
+E_EVENTLIST= [['is attacked by ridiculously large tracker jackers.',[0,6,5,5],["swiftly escapes.","is stung to death..."]],
+              ["spots a wild boar and",[0,8,3,1],["kills it and cooks it for a snack.","is pierced by a tusk and slowly dies."]],
+              ['is caught in a lightning storm.',[0,0,0,5], ["Luckily isn't struck.", 'is struck and instantaeously combusts.']],
+              ["runs into a tiger.",[0,10,5,3],["safely escapes.","gets mauled and dies."]],
+              ["runs through a posion ivy bush.",[0,2,2,3],["begins to feel very uncomfortable but moves on.","is weakend and slowly dies."]],
+              ['does not see a pit hidden in his path', [0,12,4,0], ['sees the pit in time and avoids it.', 'falls into the pit and dies.']],
+              ['is swept away by a flash flood.', [0,10,0,14], ['clings to a sturdy rock and survives.', 'gets sucked underneath and drowns.']],
+              ['begins to give in to the voices in their head.', [0,0,14,0], ['silences the voices for another day.', 'slips into insanity and mindlessly lets himself die.']],
+              ['gets caught in a wildfire.', [0,9,9,9], ['narrowly escapes a fiery death.', 'is burned alive.']],
+              ['stumbles on a rock on the path.', [0,5,0,0], ['expertly performs a barrel roll', 'falls and breaks their neck...dummy.']],
+              ['sees a duck lying in front of them.', [0,0,0,10], ['lets the duck do his thing, ever suspicious...', 'stupidly picks up the duck and explodes. He should have known better.']],
+              ['sees a rockslide hurtling toward them.', [0,14,0,12], ['jumps out of danger just in time.', 'is crushed underneath the rubble.']],
+              ['becomes involved in the unspeakably awful, soul-scaring phenomenon.', [0,0,0,18], ['escapes, forever changed...', 'succumbs to the effects of the event. It has claimed another victim...']],
+              ['is surrounded by mockingjays speaking in the voices of dead loved ones', [0,0,15,0],['is not effected by the voices.', 'is overcome by madness and dies.']],
+              ['is surprised when a tree comes to life and attacks', [0,11,0,11], ['escapes the trees clutches', 'is eaten alive by a tree']]]
+P_EVENTLIST = [['charge at each other', 1, ['tries to kill','kills']],
+               ['spot each other', 2, ['tries to trap','traps and kills']],
+               ['attack each other', 1, ['tries to kill', 'kills']],
+               ['spot each other', 2, ['attempts to surprise','catches by surprise and kills']],
+               ['attack each other', 1, ['gains the advantage','overpowers and kills']],
+               ['hear each other', 2, ['spots', 'backstabs']],
+               ['lunge at each other', 1, ['gets several blows in', 'mauls and mutilates']]]
